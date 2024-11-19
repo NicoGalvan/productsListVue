@@ -20,6 +20,7 @@ Este es un proyecto desarrollado con **Vue 3** y **Vite** para la gestión de pr
 Antes de comenzar, asegúrate de tener instalados:
 
 - [Node.js](https://nodejs.org/) (versión 16 o superior recomendada)
+- [npm](https://www.npmjs.com/)
 - [Git](https://git-scm.com/)
 
 ---

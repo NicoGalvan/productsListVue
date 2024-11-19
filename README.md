@@ -1,4 +1,7 @@
 # Products List - Vue 3 + Vite
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1edd7525-b5cd-4d7e-b19d-ca6b3ad07b8c/deploy-status)](https://app.netlify.com/sites/nicolas-products/deploys)
+
+deploy: https://nicolas-products.netlify.app/
 
 Este es un proyecto desarrollado con **Vue 3** y **Vite** para la gestión de productos. Sigue los pasos a continuación para clonar, instalar dependencias y ejecutar el proyecto localmente.
 
@@ -58,3 +61,6 @@ Esto iniciará el proyecto y estará disponible en tu navegador en:
 ```bash
 http://localhost:5173
 ```
+
+
+![image](https://github.com/user-attachments/assets/c022b41b-02c0-470d-9497-e4df57c9955e)

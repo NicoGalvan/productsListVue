@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: '/api',
+  baseURL: 'https://ucsazjrbe0.execute-api.us-east-1.amazonaws.com',
   timeout: 8000,
   headers: { 'Content-Type': 'application/json' },
 });
